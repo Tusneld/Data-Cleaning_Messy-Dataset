@@ -1,7 +1,7 @@
 # Excel Data Cleaning & Preparation Project
 
 ---
-![cleaned dataset](images/screenshot.png)
+![cleaned dataset](https://github.com/Tusneld/Data-Cleaning_Messy-Dataset/blob/a0c8370c9b664059da8ad6e33470f7c38876cbd4/Before%20%26%20After%20Dataset.png)
 
 ---
 
