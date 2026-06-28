@@ -1,5 +1,10 @@
 # Excel Data Cleaning & Preparation Project
 
+---
+![cleaned dataset](images/screenshot.png)
+
+---
+
 ## Project Overview
 This repository showcases a comprehensive data cleaning workflow performed in Microsoft Excel. The goal of this project was to transform a raw, inconsistent dataset into a professional, analysis-ready format. By addressing common data quality challenges, I have ensured the dataset is reliable for downstream visualization and decision-making.
 
